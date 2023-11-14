@@ -2,7 +2,7 @@
 
 ![SummAIze Logo](logo.png)
 
-SummAIze is a Chrome extension that brings the power of AI-driven text summarization to your fingertips. Easily summarize text from articles, documents, and more, making information consumption faster and more efficient.
+SummAIze is a Chrome extension that brings the power of AI-driven text summarization to your fingertips. Easily summarize text from articles, documents, and more, making information consumption faster and way more efficent.
 
 ## Usage
 
